@@ -1,1 +1,1 @@
-$ Open Smart Home - Arduino
+# Open Smart Home - Arduino
